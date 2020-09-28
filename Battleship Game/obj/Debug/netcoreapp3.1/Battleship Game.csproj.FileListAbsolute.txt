@@ -11,3 +11,16 @@ C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\Battleshi
 C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.dll
 C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.pdb
 C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.genruntimeconfig.cache
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\bin\Debug\netcoreapp3.1\Battleship Game.exe
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\bin\Debug\netcoreapp3.1\Battleship Game.deps.json
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\bin\Debug\netcoreapp3.1\Battleship Game.runtimeconfig.json
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\bin\Debug\netcoreapp3.1\Battleship Game.runtimeconfig.dev.json
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\bin\Debug\netcoreapp3.1\Battleship Game.dll
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\bin\Debug\netcoreapp3.1\Battleship Game.pdb
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.csprojAssemblyReference.cache
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.AssemblyInfoInputs.cache
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.AssemblyInfo.cs
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.csproj.CoreCompileInputs.cache
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.dll
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.pdb
+C:\Users\herib\Documents\SDMM Projects\Battleship Game\Battleship Game\obj\Debug\netcoreapp3.1\Battleship Game.genruntimeconfig.cache

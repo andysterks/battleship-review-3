@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game\\Battleship Game.csproj": {}
+    "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game\\Battleship Game.csproj": {
+    "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game\\Battleship Game.csproj",
+        "projectUniqueName": "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game.csproj",
         "projectName": "Battleship Game",
-        "projectPath": "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game\\Battleship Game.csproj",
+        "projectPath": "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game.csproj",
         "packagesPath": "C:\\Users\\herib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\Battleship Game\\obj\\",
+        "outputPath": "C:\\Users\\herib\\Documents\\SDMM Projects\\Battleship Game\\Battleship Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\herib\\AppData\\Roaming\\NuGet\\NuGet.Config",
